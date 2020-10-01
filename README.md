@@ -1,4 +1,4 @@
-![Matthew W. Jackson, software architect](assets/header.png)
+![TheMuuj, Software Architect](assets/apollo.png)
 
 ## Academic Interests
 
